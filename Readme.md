@@ -38,7 +38,7 @@ HEROKU_APP_NAME_1 : Your Heroku Account APP-NAME Of First Account.
 HEROKU_APP_NAME_2 : Your Heroku Account APP-NAME Of Second Account.
 ```
 5. Make Sure Actions Are Enabled In GitHub:
-- To Do This, Visit The "Actions" Tab Of Heroku
+- To Do This, Visit The "Actions" Tab Of Your Fork
 - In The Workflows Section Click on "Heroku-Account-Scheduler.yml" Button
 - Now Click On Run Workflow. A Prompt Telling You That Scheduled Workflows Are Disabled For Forks Will Come Up. Click Enable Workflow, Then Run Workflow
 - If Done Right, The Script Would Swap Account Based On The Date Of The Month. Making Sure Your App Always Runs.
